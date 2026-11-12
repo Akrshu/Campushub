@@ -41,6 +41,12 @@ const students = [
   { name: "Prashant Singh", major: "Product Design", initials: "PS", color: "bg-[#ffe2d2] text-[#be6849]", image: "" },
   { name: "Sawan Yadav", major: "Economics", initials: "SY", color: "bg-[#d8f1e5] text-[#3e8a69]", image: "" },
   { name: "Gaurav", major: "Engineering", initials: "GA", color: "bg-[#dce9ff] text-[#4775bb]", image: "" },
+  { name: "Meera Kapoor", major: "Psychology", initials: "MK", color: "bg-[#ffe4ef] text-[#bb5b86]", image: "" },
+  { name: "Rohan Mehta", major: "Business", initials: "RM", color: "bg-[#fff0d9] text-[#ad7a36]", image: "" },
+  { name: "Isha Gupta", major: "Biotechnology", initials: "IG", color: "bg-[#e5f4f3] text-[#438e88]", image: "" },
+  { name: "Kabir Bansal", major: "Media Studies", initials: "KB", color: "bg-[#f0e6ff] text-[#8056b3]", image: "" },
+  { name: "Ananya Rao", major: "Architecture", initials: "AR", color: "bg-[#e8efff] text-[#5875b9]", image: "" },
+  { name: "Dev Malhotra", major: "Law", initials: "DM", color: "bg-[#fce8df] text-[#b66a4b]", image: "" },
 ];
 
 const initialPosts = [
